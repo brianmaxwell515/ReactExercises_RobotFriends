@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ReactExercises_RobotFriends/static/css/main.dec08f56.chunk.css",
+    "main.js": "/ReactExercises_RobotFriends/static/js/main.a04a0ace.chunk.js",
+    "main.js.map": "/ReactExercises_RobotFriends/static/js/main.a04a0ace.chunk.js.map",
+    "runtime-main.js": "/ReactExercises_RobotFriends/static/js/runtime-main.1c74fb86.js",
+    "runtime-main.js.map": "/ReactExercises_RobotFriends/static/js/runtime-main.1c74fb86.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/ReactExercises_RobotFriends/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.2a06c861.chunk.js": "/ReactExercises_RobotFriends/static/js/2.2a06c861.chunk.js",
+    "static/js/2.2a06c861.chunk.js.map": "/ReactExercises_RobotFriends/static/js/2.2a06c861.chunk.js.map",
+    "index.html": "/ReactExercises_RobotFriends/index.html",
+    "precache-manifest.3c240f6416e4e0fe95e96fe2b4bad6d3.js": "/ReactExercises_RobotFriends/precache-manifest.3c240f6416e4e0fe95e96fe2b4bad6d3.js",
+    "service-worker.js": "/ReactExercises_RobotFriends/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/ReactExercises_RobotFriends/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.dec08f56.chunk.css.map": "/ReactExercises_RobotFriends/static/css/main.dec08f56.chunk.css.map",
+    "static/js/2.2a06c861.chunk.js.LICENSE.txt": "/ReactExercises_RobotFriends/static/js/2.2a06c861.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ReactExercises_RobotFriends/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c74fb86.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.2a06c861.chunk.js",
+    "static/css/main.dec08f56.chunk.css",
+    "static/js/main.a04a0ace.chunk.js"
+  ]
+}
